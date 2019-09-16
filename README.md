@@ -2,4 +2,4 @@
 
 learn Gmae Engine Architecture
 
-SIMD folder show the code of SSE calculate
+SIMD_test shows the code of SSE calculate
