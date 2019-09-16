@@ -2,4 +2,4 @@
 
 learn Gmae Engine Architecture
 
-test commit changes
+SIMD folder show the code of SSE calculate
