@@ -16,4 +16,4 @@ ODS.cpp shows the code of OutputDebugString()
 
 this project is all about learning. If there are anything wrong, please help me to correct it
 
-one last thing , fighting for Ubisoft
+one last thing , fighting for Game
